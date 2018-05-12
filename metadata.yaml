@@ -1,0 +1,32 @@
+_repo: John-Bull--13-Or-The-Englishman-s-Fireside--A-Comedy-in-Five-Acts_20177
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colman, George
+    aliases:
+    - Coleman, George
+    - Colman, George, the younger
+    - Griffinhoof, Arthur
+    birthdate: 1762
+    deathdate: 1836
+    gutenberg_agent_id: '31335'
+    url: http://www.gutenberg.org/2009/agents/31335
+    wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Younger
+description: ''
+gutenberg_issued: '2006-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'English drama'
+- !lcc 'PR'
+title: 'John Bull; Or, The Englishman''s Fireside: A Comedy, in Five Acts'
+url: http://www.gutenberg.org/ebooks/20177
